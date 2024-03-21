@@ -1,3 +1,3 @@
 # rss, maybe??
-I'm gonna be honest, I have no idea how rss feeds work, but I want to be able to make my own 😭
-I've messed around with something of a similar structure in thr form of html, but I wanna try something new ^^
+I wanted to make an rss feed that I can edit on my phone, so I made it here ^^
+if I need to make rss feeds, I'm gonna stick them here :D
